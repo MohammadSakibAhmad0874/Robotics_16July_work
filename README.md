@@ -1,8 +1,10 @@
 # Robotics_16July_work
+
 today work is using 3 ir sensor with 2 servo motor
 # IR Sensor Servo Motor Control System
 
-## Overview
+## Overview![Exquisite Juttuli (3)](https://github.com/user-attachments/assets/901da41c-332f-475f-bbe8-72434ea1e26f)
+
 This Arduino project implements a servo motor control system using three IR sensors for directional movement detection. The system monitors obstacles or movements in three directions (left, center, right) and controls two servo motors accordingly.
 
 ## Components Required
